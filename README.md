@@ -11,7 +11,7 @@ Solved programming exercises 3–9 of the course, covering:
 - Model diagnostics and residual analysis
 - Variable selection and model comparison
 
-### Independent Modelling Project (`EDA.ipynb`)
+### Independent Modelling Project (`EDA.ipynb`, `nanookEDA.ipynb`, `nanook2.ipynb`)
 Applied regression and EDA techniques to the Nanook Quantitative Modelling challenge as an additional self-directed modelling exercise.
 
 ## Tools & Libraries
