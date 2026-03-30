@@ -5,9 +5,9 @@ Python implementation of programming assignments from CMU's Modern Regression co
 ## Contents
 
 ### Homework Assignments (hw3–hw9)
-Solved questions 1–9 of the programming assignments, covering:
+Solved programming exercises 3–9 of the course, covering:
 - Exploratory Data Analysis (EDA)
-- Ordinary Least Squares (OLS) regression
+- Ordinary Least Squares (OLS), Weighted Least Squares (WLS) regression
 - Model diagnostics and residual analysis
 - Variable selection and model comparison
 
