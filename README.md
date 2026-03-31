@@ -1,4 +1,4 @@
-# Modern Regression — Independent Study
+# Modern Regression: Independent Study
 
 Python implementation of programming assignments from CMU's Modern Regression course (2017), completed independently as self-study.
 
@@ -19,4 +19,4 @@ Applied regression and EDA techniques to the Nanook Quantitative Modelling chall
 - pandas, numpy, matplotlib, statsmodels
 
 ## Note
-This work was completed independently as self-study — I am not and was not enrolled at CMU.
+This work was completed independently as self-study. I am not and was not enrolled at CMU.
